@@ -1,5 +1,5 @@
 # Table of contents
 
-* [删不掉了？](README.md)
+* [删？](README.md)
 * [readme](undefined.md)
 
